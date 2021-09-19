@@ -1,1 +1,12 @@
-
+ip:217.66.158.188
+mode => myform
+last_name => вввввввв
+first_name => ееееееее
+email => smirnoff04@mail.ru
+country => Антигуа и Барбуда
+gender => мужчина
+birth_date => 1646784000
+agree => yes
+submitted => ok
+referer:http://smirnov.spb.su/infocontrol/index.php
+September 19, 2021, 6:08 pm
