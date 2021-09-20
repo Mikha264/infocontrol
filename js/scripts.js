@@ -19,11 +19,9 @@ function checkForm2a(){
                       if(document.contactForm.submitted.value=="ok"){   
                                                                                 result  ="Данные успешно отправлены"; 
                                                                                                }else{result  ="Ошибка отправки данных"; }
-document.getElementById("result_ok").innerHTML = "<font color=red>"+result+"</font>";
-/*****
+  document.getElementById("result_ok").innerHTML = "<font color=red>"+result+"</font>";
 	document.contactForm.last_name.value="";
   document.contactForm.first_name.value="";
 	document.contactForm.email.value="";
   document.contactForm.agree.checked="";
-************/
-	}//end function
+}//end function
