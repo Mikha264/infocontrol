@@ -5,3 +5,4 @@
 
 2) Вариант с  PHP файлом - index.php (см. github)  позволяет обработать форму, преобразовать дату в 
 unix timestamp,  сбросить данные на диск в файл result.txt в папке result, переслать данные на email smirnoff04@mail.ru
+END
